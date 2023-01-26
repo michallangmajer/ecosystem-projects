@@ -1,0 +1,14 @@
+{
+  "name": "CoinBrain",
+  "slug": "coinbrain",
+  "date": "2023-01-04”,
+  "highlight": "Multichain crypto analytics platform.",
+  "logo": "/img/coinbrain.png",
+  "tags": ["tools","stats","multi-chain", "explorer"],
+  "status": "live",
+  "website": "https://coinbrain.com”,
+  "twitter": "https://twitter.com/coinbraincom”,
+  "summary": "CoinBrain is an analytics platform for crypto traders that combines traditional and alternative data and provides a comprehensive suite of tools to help people make more informed decisions and increase their profits in the fast-paced world of crypto trading.",
+  "telegram": "https://t.me/coinbraincomann",
+  "docs":"https://coda.io/d/CoinBrain_dSFhNEwDos8/What-is-CoinBrain_suzGC#_luwQZ”
+}
